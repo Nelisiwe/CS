@@ -51,12 +51,13 @@ package com.org{
 			dispatchEvent(new TileEvent(TileEvent.MOUSECLICKEVENT,global_label));
 			
 			});
+			*/
 			
 
 			addChild(global_sprite);
 			this.x = global_x;
 			this.y = global_y;
-*/
+
 		}
 		/*------------------------------------------------------------------------------------------------*/
 
